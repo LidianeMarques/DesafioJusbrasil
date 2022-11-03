@@ -145,11 +145,11 @@ chrome, link para download do chromedriver abaixo:</p>
         
         <p>A tela ficará assim:</p>
      
-        ![Tela do esatdo](tela_botao_try.png)
+        ![Tela do esatdo](imagens_documentacao/tela_botao_try.png)
         
         <p>Depois de clicar no botão Try in out:</p>
      
-        ![Pesquisar processo](pesquisar_numero_processo.png)
+        ![Pesquisar processo](/imagens_documentacao/pesquisar_numero_processo.png)
         
         <p>Resultado da pesquisa:</p>
      
