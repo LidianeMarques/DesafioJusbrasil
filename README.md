@@ -153,6 +153,6 @@ chrome, link para download do chromedriver abaixo:</p>
         
         <p>Resultado da pesquisa:</p>
      
-        ![Resultado da pesquisa](resultado_pesquisa_processo.png)
+        ![Resultado da pesquisa](imagens_documentacao/resultado_pesquisa_processo.png)
 
   8. Esse processo é o mesmo para <b>CE</b>
