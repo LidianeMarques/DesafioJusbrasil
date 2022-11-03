@@ -136,7 +136,7 @@ chrome, link para download do chromedriver abaixo:</p>
   
         <p> O resultado será assim: </p>
     
-        ![Pagina inicial da api](pagina_inicial_api.png)
+        ![Pagina inicial da api](imagens_documentacao/pagina_inicial_api.png)
 
   6. Em seguida é só abrir qual estado você quer pesquisar o processo <b>al</b> ou <b>ce</b> </p>
     <p>Depois de clicar em uma dessas opções, vc precisa aperta no botão <b>Try in out</b> para poder testar a api</p>
