@@ -62,7 +62,7 @@ para mais números de processo, busque no diário de justiça do estado do Cear�
 <hr/>
 <h1 align="center"> Tutorial </h1>
 <hr/>
-<p> O projeto foi feito usando os seguintes pacotes:</p>
+<p> O projeto foi feito usando os seguintes pacotes e sistema operacional:</p>
 
 ~~~shell
 Python 3.9.10
